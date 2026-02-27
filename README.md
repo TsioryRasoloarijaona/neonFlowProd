@@ -5,7 +5,7 @@
   
   **Advanced Productivity App with Futuristic Design**
   
-  [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/TsioryRasoloarijaona/neonFlow)
+  [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/TsioryRasoloarijaona/neonFlowProd)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Electron](https://img.shields.io/badge/Electron-29.1.1-47848F.svg)](https://www.electronjs.org/)
   [![React](https://img.shields.io/badge/React-18.2.0-61DAFB.svg)](https://reactjs.org/)
@@ -87,14 +87,10 @@ Download the appropriate version for your operating system:
 
 | File | Description | Download |
 |------|-------------|----------|
-| `NeonFlow-1.0.0.AppImage` | AppImage (Recommended - works on most distributions) | [Download](https://github.com/TsioryRasoloarijaona/neonFlow/raw/main/apps/NeonFlow-1.0.0.AppImage) |
-| `neonflow_1.0.0_amd64.deb` | Debian/Ubuntu package | [Download](https://github.com/TsioryRasoloarijaona/neonFlow/raw/main/apps/neonflow_1.0.0_amd64.deb) |
+| `NeonFlow-1.0.0.AppImage` | AppImage (Recommended - works on most distributions) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow-1.0.0.AppImage) |
+| `neonflow_1.0.0_amd64.deb` | Debian/Ubuntu package | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/neonflow_v1.0.0_amd64.deb) |
 
-**Installation Instructions:**
-```bash
-# AppImage
-chmod +x NeonFlow-1.0.0.AppImage
-./NeonFlow-1.0.0.AppImage
+
 
 # Debian/Ubuntu (.deb)
 sudo dpkg -i neonflow_1.0.0_amd64.deb
@@ -104,8 +100,10 @@ sudo dpkg -i neonflow_1.0.0_amd64.deb
 
 | File | Description | Download |
 |------|-------------|----------|
-| `NeonFlow Setup 1.0.0.exe` | Installer (Recommended) | [Download](https://github.com/TsioryRasoloarijaona/neonFlow/raw/main/apps/NeonFlow%20Setup%201.0.0.exe) |
-| `NeonFlow 1.0.0.exe` | Portable (No installation required) | [Download](https://github.com/TsioryRasoloarijaona/neonFlow/raw/main/apps/NeonFlow%201.0.0.exe) |
+| `NeonFlow Setup 1.0.0.exe` | Installer (Recommended) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow.Setup.1.0.0.exe) |
+| `NeonFlow 1.0.0.exe` | Portable (No installation required) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow.1.0.0.exe) |
+
+
 
 **Installation Instructions:**
 ```bash
