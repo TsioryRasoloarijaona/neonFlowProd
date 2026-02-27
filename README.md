@@ -87,9 +87,19 @@ Download the appropriate version for your operating system:
 
 | File | Description | Download |
 |------|-------------|----------|
+| `NeonFlow-1.0.0.AppImage` | AppImage (Recommended - works on most distributions) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow-1.0.0.AppImage) |
 | `neonflow_1.0.0_amd64.deb` | Debian/Ubuntu package | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/neonflow_v1.0.0_amd64.deb) |
 
+**SHA256 Checksums:**
+```
+neonflow_1.0.0_amd64.deb: 8d5da1b380903f166cae3cc8f8cb830baa4294396539d03e8f2477bde52f425a
+```
 
+**Installation Instructions:**
+```bash
+# AppImage
+chmod +x NeonFlow-1.0.0.AppImage
+./NeonFlow-1.0.0.AppImage
 
 # Debian/Ubuntu (.deb)
 sudo dpkg -i neonflow_1.0.0_amd64.deb
@@ -102,7 +112,11 @@ sudo dpkg -i neonflow_1.0.0_amd64.deb
 | `NeonFlow Setup 1.0.0.exe` | Installer (Recommended) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow.Setup.1.0.0.exe) |
 | `NeonFlow 1.0.0.exe` | Portable (No installation required) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow.1.0.0.exe) |
 
-
+**SHA256 Checksums:**
+```
+NeonFlow Setup 1.0.0.exe: 13c558d2a181e4d3953a14e624b18bdaaa7c830f10a0376216d0451e0b2ccf46
+NeonFlow 1.0.0.exe:       7fd101ea896e2c08b71275231de67a206522204063d8a262ab9283c180719ba8
+```
 
 **Installation Instructions:**
 ```bash
