@@ -87,7 +87,6 @@ Download the appropriate version for your operating system:
 
 | File | Description | Download |
 |------|-------------|----------|
-| `NeonFlow-1.0.0.AppImage` | AppImage (Recommended - works on most distributions) | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/NeonFlow-1.0.0.AppImage) |
 | `neonflow_1.0.0_amd64.deb` | Debian/Ubuntu package | [Download](https://github.com/TsioryRasoloarijaona/neonFlowProd/releases/download/v1.0.0/neonflow_v1.0.0_amd64.deb) |
 
 
